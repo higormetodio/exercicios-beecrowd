@@ -8,7 +8,7 @@ while (contador < 6)
 
 //Poderíamos utilizar o método count com um expressão lambda
 //int teste = numeros.Count(x => x > 0);
-//Console.WriteLine(teste);
+//Console.WriteLine($"{teste} valores positivos");
 contador = 0;
 
 foreach (double numero in numeros)
