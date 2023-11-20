@@ -1,17 +1,16 @@
-# PROBLEMA 1003 - SOMA SIMPLES - UTILIZANDO C#
+# PROBLEMA 1001 - EXTREMAMENTE BÁSICO - UTILIZANDO C#
 
-Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável **SOMA**. A seguir escrever o valor desta variável.
+Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
 ## Entrada
-O arquivo de entrada contém 2 valores inteiros.
+A entrada contém 2 valores inteiros.
 
 ## Saída
-Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em branco antes e depois da igualdade seguido pelo valor correspondente à soma de A e B. Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
 
 | Exemplo de Entrada | Exemplor de Saída |
 |--------------------|-------------------|
-| 30<br>10            | **SOMA = 40**    |  
-| -30<br>10           | **SOMA = -20**   |
-| 0<br>0              | **SOMA = 0**     |
-
+| 10<br>9            | **X = 19**        |  
+| -10<br>4           | **X = -6**        |
+| 15<br>-7           | **X = 8**         |
