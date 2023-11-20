@@ -2,6 +2,7 @@
 int contadorIn = 0;
 int contadorOut = 0;
 
+//verificando se a entrada do usuário está dentro da condição < 10000 
 if (numero < 10000)
 {
     int[] arrayInteiros = new int[numero];
@@ -10,6 +11,7 @@ if (numero < 10000)
     {
         int valor = Convert.ToInt32(Console.ReadLine());
 
+        //verificando se os casos de testes estão dentro da condição (-10^7 < X <10^7)
         if (valor > Math.Pow(-10, 7) && valor < Math.Pow(10, 7))
         {
             arrayInteiros[i] = valor;
@@ -35,8 +37,3 @@ if (numero < 10000)
     Console.WriteLine($"{contadorIn} in");
     Console.WriteLine($"{contadorOut} out");
 }
-
-
-
-
-
