@@ -12,9 +12,4 @@
             Console.WriteLine($"MEDIA = {media.ToString("F5")}");
         }
     }
-
-    class Pagamento
-    {
-
-    }
 }
