@@ -1,4 +1,4 @@
-﻿string[] valores = Console.ReadLine()!.Split(' ');
+﻿string[] valores = Console.ReadLine().Split(' ');
 int valorX = Convert.ToInt32(valores[0]);
 int valorY = Convert.ToInt32(valores[1]);
 int contador = 1;
