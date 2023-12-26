@@ -1,4 +1,4 @@
-# PROBLEMA 1165 - NÚMERO PRIMO - UTILIZANDO C#
+# PROBLEMA 1172 - SUBSTITUIÇÃOEM VAETOR I - UTILIZANDO C#
 
 Faça um programa que leia um vetor X[10]. Substitua a seguir, todos os valores nulos e negativos do vetor X por 1. Em seguida mostre o vetor X.
 
