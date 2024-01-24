@@ -11,7 +11,9 @@ Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto deci
 
 | Exemplo de Entrada   | Exemplor de Saída    |
 |----------------------|----------------------|
-| 10                   | **Menor valor: -5**  |
-| 1 2 3 4 -5 6 7 8 9 10| **Posicao: 4**       |
+| 5                    | **12.6**             |
+| S                    |                      |
+| 0.0                  |                      |
+| -3.5                 |                      |
 
 
